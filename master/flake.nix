@@ -9,7 +9,7 @@
   
   inputs.src-socks-master.flake = false;
   inputs.src-socks-master.owner = "FedericoCeratto";
-  inputs.src-socks-master.ref   = "refs/heads/master";
+  inputs.src-socks-master.ref   = "master";
   inputs.src-socks-master.repo  = "nim-socks5";
   inputs.src-socks-master.type  = "github";
   
