@@ -36,10 +36,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-socks-master": "src-socks-master"
+        "src-socks5-master": "src-socks5-master"
       }
     },
-    "src-socks-master": {
+    "src-socks5-master": {
       "flake": false,
       "locked": {
         "lastModified": 1578523484,
